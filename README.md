@@ -32,8 +32,10 @@ Para ejecutar este flow, es necesario lo siguiente
 Para la realizacion de este primer flow necesitamos instalar un paquete de **Dashboard** de la siguiente manera 
 1. Abrimos la pestaña de opciones y elegimos  **Manage palette**
 ![](https://github.com/YasminZagal/PRACTICA-N-7-NodeRed/blob/main/manage%20palet.png)
+
 2. Seleccionamos --> Install y buscamos **node-red-dashboard**
 ![](https://github.com/YasminZagal/PRACTICA-N-7-NodeRed/blob/main/install.png)
+
 3. Y para terminar le colocamos install
 
    
@@ -42,10 +44,10 @@ Para la realizacion de este primer flow necesitamos instalar un paquete de **Das
 ![](https://github.com/YasminZagal/PRACTICA-N-7-NodeRed/blob/main/herramientas.png)
 ![](https://github.com/YasminZagal/PRACTICA-N-7-NodeRed/blob/main/nodos%20a%20utilizar.png)
 
-3.Uniremo nuestros nodos 
+2.Uniremo nuestros nodos 
 ![](https://github.com/YasminZagal/PRACTICA-N-7-NodeRed/blob/main/resultado%201.png)
 
-2.Modificaremos los nombres de nuestros nodos y valores en nuestro caso se coloco el nombre de **humedad**
+3.Modificaremos los nombres de nuestros nodos y valores en nuestro caso se coloco el nombre de **humedad**
 ![](https://github.com/YasminZagal/PRACTICA-N-7-NodeRed/blob/main/slider.png)
 ![](https://github.com/YasminZagal/PRACTICA-N-7-NodeRed/blob/main/gauge.png)
 ![](https://github.com/YasminZagal/PRACTICA-N-7-NodeRed/blob/main/chart.png)
